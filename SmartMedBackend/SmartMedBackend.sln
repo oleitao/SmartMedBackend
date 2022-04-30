@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartMedBackend", "SmartMedBackend.csproj", "{B32D6B36-BF05-4B04-AA1D-50078C2CAF7D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartMedBackend.Tests", "..\SmartMedBackend.Tests\SmartMedBackend.Tests.csproj", "{C60E985B-B96C-4D7D-A84C-C1C9EF080FF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B32D6B36-BF05-4B04-AA1D-50078C2CAF7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B32D6B36-BF05-4B04-AA1D-50078C2CAF7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B32D6B36-BF05-4B04-AA1D-50078C2CAF7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B32D6B36-BF05-4B04-AA1D-50078C2CAF7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C60E985B-B96C-4D7D-A84C-C1C9EF080FF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C60E985B-B96C-4D7D-A84C-C1C9EF080FF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C60E985B-B96C-4D7D-A84C-C1C9EF080FF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C60E985B-B96C-4D7D-A84C-C1C9EF080FF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A938E6B4-E63C-4EA8-87B8-F6F8DD542845}
+	EndGlobalSection
+EndGlobal
